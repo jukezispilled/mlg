@@ -232,7 +232,7 @@ function App() {
 
         <div className='absolute bottom-4 text-center py-0.5 text-[9px] flex justify-center w-full'>
           <Window className='text-center text-[9px]'>
-            <span className='text-[9px] md:text-base'>CA: uploading...</span>
+            <span className='text-[9px] md:text-base'>CA: AmthFUcX3q9VdoqnhaPPm9MSECr2g1X3wddRZ6tXpump</span>
           </Window>
         </div>
 
