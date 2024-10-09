@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+/* In App.css or your specific styles file */
+.toolbar {
+  display: flex;
+  align-items: center; /* Ensure items are aligned vertically */
+  gap: 0.5rem; /* Add space between items */
+}
